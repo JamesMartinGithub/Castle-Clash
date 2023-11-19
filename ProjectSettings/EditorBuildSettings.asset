@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4ea7f92502972e748942c0fa8c0a8af3
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: cbfe36cfddfde964d9dfce63a355d5dd
+  - enabled: 1
+    path: Assets/Scenes/EndLose.unity
+    guid: 6097061ba19995244940b083f3e0219a
+  - enabled: 1
+    path: Assets/Scenes/EndWin.unity
+    guid: e3f5135b4a2fbe048bf2757c4e6cd9ce
+  - enabled: 1
+    path: Assets/Scenes/EndDraw.unity
+    guid: 3f9a3ef669ba08e4c8318f082d19ce13
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 93d17c94c82d5b146b1ed1e6442c51a7
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 5732ef3af1e182c4c8a65e554e687985, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fda994091374bf41b349d0ea0d23d4d, type: 2}
